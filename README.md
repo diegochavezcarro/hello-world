@@ -1,3 +1,3 @@
 # hello-world
-prueba github
+pruebc github
 Hola Mundo!
